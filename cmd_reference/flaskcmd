@@ -1,0 +1,6 @@
+set FLASK_APP=app(file name)
+
+flask run (or) python -m flask run
+
+for automatic restart
+pymon filename.py
